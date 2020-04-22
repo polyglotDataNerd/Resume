@@ -1,2 +1,3 @@
 # Resume
-Gerard Bartolome CV
+
+[Gerard Bartolome CV](https://polyglotdatanerd.github.io/Resume/)
