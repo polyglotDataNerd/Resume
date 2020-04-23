@@ -11,3 +11,8 @@
 *.tfstate.*
 *target/*
 *dependency-reduced-pom.xml*
+# node
+**/node_modules/*
+*package-lock.json
+# Local .terraform directories
+**/.terraform/*
