@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Gerard Bartolome Resume",
+  "main": "simple.js",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "node-ensure": "0.0.0",
+    "pdfjs-dist": "^2.3.200",
+    "require": "^2.4.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal.github.com:polyglotDataNerd/Resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Gerard Bartolome",
+  "license": "ISC"
+}
