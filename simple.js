@@ -1,5 +1,5 @@
 'use strict'
-const pdf = require("/viewer/build/pdf"),
+const pdf = require("/docs/viewer/build/pdf"),
     loadingTask = pdf.getDocument("./GerardBartolome_CV2020.pdf")
 loadingTask.promise.then(
     function (pdf) {
