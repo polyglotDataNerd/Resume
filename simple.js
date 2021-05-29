@@ -1,6 +1,6 @@
 'use strict'
 const pdf = require("./viewer/build/pdf"),
-    loadingTask = pdf.getDocument("./GerardBartolome_CV2020.pdf")
+    loadingTask = pdf.getDocument("./GerardBartolome_CV2021.pdf")
 loadingTask.promise.then(
     function (pdf) {
         // Load information from the first page.
